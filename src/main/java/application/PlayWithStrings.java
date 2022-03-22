@@ -2,7 +2,7 @@ package application;
 
 public class PlayWithStrings {
 	public static void main(String[] args) {
-		System.out.println("Hello String World");
+		System.out.println("Hello World");
 	}
 
 	/**
@@ -13,7 +13,7 @@ public class PlayWithStrings {
 	 * @param firstname
 	 * @param lastname
 	 */
-	public static void printIntitials(String firstname, String lastname) {
+	public static void printIntitials(String firstname, String lastname) { 
 
 	}
 
